@@ -1,6 +1,6 @@
 # Raymarching shader
 
-Artificial intelligence in games #1 : Steering behaviours
+Kishimisu #2 : Raymarching shader
 
 [Raymarching shader video]()
 
