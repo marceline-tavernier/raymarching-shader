@@ -2,7 +2,7 @@
 
 Kishimisu #2 : Raymarching shader
 
-[Raymarching shader video](https://github.com/user-attachments/assets/fe96ec6c-c726-4566-90ee-572502dcac9f)
+[Raymarching shader video](https://github.com/user-attachments/assets/87a03a5a-b020-4546-9589-fb9a340c452c)
 
 ## Description
 - Visualize the raymarching shader
