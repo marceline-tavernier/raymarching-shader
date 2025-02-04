@@ -1,4 +1,4 @@
-# Raymarching shader
+# Raymarching Shader
 
 Kishimisu #2 : Raymarching shader
 
