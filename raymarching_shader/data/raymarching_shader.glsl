@@ -55,6 +55,7 @@ vec3 palette(float t) {
   return a + b * cos(6.28318 * (c * t + d));
 }
 
+// Main function
 void main() {
 
   // Initialize uv and mouse
